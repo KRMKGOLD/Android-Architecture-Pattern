@@ -35,7 +35,7 @@ __데이터와 UI는 프로그램을 구성하는데 필수적인 요소이기 �
 
 -> View와 Model간의 의존성이 강하다는 문제가 발생
 
-## MVP
+## MVP -  [구현](https://github.com/KRMKGOLD/studyMVP)
 
  - Model, View, Presenter
  - MVC에서의 Model과 View 간 의존성이 없는 아키텍쳐 패턴
