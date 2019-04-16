@@ -59,7 +59,7 @@ __데이터와 UI는 프로그램을 구성하는데 필수적인 요소이기 �
 
 -> View-Presenter간의 의존성이 강하고, 중복 코드가 발생하는 경우가 많음.
 
-## MVVM
+## MVVM - [구현](https://github.com/KRMKGOLD/Android_MVVMSample/tree/master)
  - Model, View, ViewModel
  - MVP의 문제를 해결하기 위해서 Presenter를 분리해 보았다! -> MVVM
  - MVC에서의 Model-View간의 의존성과 MVP에서의 View-Presenter간의 의존성도 해결하기 위한 아키텍쳐 패턴
